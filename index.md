@@ -8,5 +8,5 @@ title: "Mi Sitio"
 Aquí encontrarás:
 
 - [Mi CV](/cv/)
-- [Blog Personal](/blog-personal/)
+- [Blog Personal](/blog/)
 
