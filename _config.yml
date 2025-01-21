@@ -1,3 +1,11 @@
 title: "Ernesto Pandelet Durán"
 description: "Portfolio personal"
 theme: jekyll-theme-minimal
+
+nav:
+  - title: "Inicio"
+    url: "/"
+  - title: "CV"
+    url: "/cv/"
+  - title: "Blog Personal"
+    url: "/blog-personal/"
