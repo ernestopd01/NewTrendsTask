@@ -10,4 +10,3 @@ Aquí encontrarás:
 - [Mi CV](/cv/)
 - [Blog Personal](/blog-personal/)
 
-¡Explora y disfruta!
